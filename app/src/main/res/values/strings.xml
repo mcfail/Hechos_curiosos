@@ -4,7 +4,7 @@
     <string name="app_name">Hechos_curiosos</string>
     <string name="hello_world">¿Sabías que...?</string>
     <string name="action_settings">Settings</string>
-    <string name="hecho1">El aire pesa. Una columna de aire podría matarte</string>
+    <string name="hecho1">Cuando alguien huele bien es automáticamente percibido como más atractivo</string>
     <string name="boton">Otra curiosidad</string>
     <string-array name="hechos">
 
@@ -13,10 +13,10 @@
         <item >Las medallas de oro de los juegos olímpicos están hechas de plata</item>
         <item >Naciste con 300 huesos. En la edad adulta tendrás sólo 206</item>
         <item >La luz del sol tarda 8 minutos en llegar a la tierra</item>
-        <item >Peter Parker es Spiderman</item>
+        <item >Algunas mujeres tienen un 4º cono de visión de color, lo que les permite percibir millones de colores </item>
         <item >Algunas plantas de bambú pueden llegar a crecer 1m al día</item>
-        <item >Batman es Bruce Wayne</item>
-        <item >Halloween nunca cae en viernes 13</item>
-        <item >Correlación no implica causalidad</item>
+        <item >Los hombres tienden a sobreestimar el interés de las mujeres en ellos, y las mujeres tienden a subestimar el interés de los hombres</item>
+        <item >Los cocos matan a más gente que los tiburones. Es 15 veces más probable morir por la caída de un coco</item>
+        <item >El amor no tiene nada que ver con el corazón. Son reacciones químicas en le cerebro</item>
     </string-array>
 </resources>

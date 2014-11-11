@@ -19,7 +19,7 @@ public class hc_main extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hc_main);
 
-        factBook = new FactBook();
+        factBook = new FactBook(this);
 
     }
 
